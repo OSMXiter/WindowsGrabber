@@ -66,7 +66,7 @@ __[Solo fines educativos, Todo el código está completamente comentado]__
     ![](https://i.imgur.com/7hMN0aW.png)
 * Y al finalizar tendrá el archivo.
 
-    ![](https://i.imgur.com/SHKHeKl.png)
+    ![](https://i.imgur.com/SHKHe)
 
 __Recursos utilizados:__
 * __Función:__  [KeyAndMouse_Block](https://github.com/OSMXiter/KeyAndMouse_Block) <== Bloquea los eventos del teclado y el mouse
